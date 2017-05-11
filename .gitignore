@@ -7,3 +7,5 @@
 /build
 /captures
 .externalNativeBuild
+/app/src/main/java/com/example/user/practicedemo/MainActivity.java
+!/app/src/main/java/com/example/user/practicedemo/MainActivity.java
