@@ -12,6 +12,7 @@ buildscript {
 
         //添加apt插件
         classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+        classpath 'org.greenrobot:greendao-gradle-plugin:3.0.0'
     }
 }
 
