@@ -1,1 +1,1 @@
-include ':app', ':xml', ':socket', ':dagger', ':recyclerview', ':broadcastreceiver', ':service', ':greendao'
+include ':app', ':xml', ':socket', ':dagger', ':recyclerview', ':broadcastreceiver', ':service', ':greendao', ':rxjava2'
