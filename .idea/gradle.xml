@@ -8,14 +8,18 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aidl_client" />
+            <option value="$PROJECT_DIR$/aidl_service" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastreceiver" />
             <option value="$PROJECT_DIR$/dagger" />
             <option value="$PROJECT_DIR$/datasava" />
             <option value="$PROJECT_DIR$/greendao" />
             <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/rxjava2" />
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/socket" />
+            <option value="$PROJECT_DIR$/view" />
             <option value="$PROJECT_DIR$/xml" />
           </set>
         </option>
