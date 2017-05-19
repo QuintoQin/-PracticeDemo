@@ -1,4 +1,6 @@
-package com.example.dagger;
+package com.example.dagger.shoe;
+
+import com.example.dagger.MainActivity;
 
 import javax.inject.Singleton;
 

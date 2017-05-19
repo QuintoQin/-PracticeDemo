@@ -1,7 +1,9 @@
-package com.example.dagger;
+package com.example.dagger.shoe;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.dagger.R;
 
 public class SecondActivity extends AppCompatActivity {
 
