@@ -12,10 +12,14 @@
             <option value="$PROJECT_DIR$/aidl_service" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastreceiver" />
+            <option value="$PROJECT_DIR$/contentprovider" />
             <option value="$PROJECT_DIR$/dagger" />
             <option value="$PROJECT_DIR$/datasava" />
+            <option value="$PROJECT_DIR$/developers" />
             <option value="$PROJECT_DIR$/greendao" />
+            <option value="$PROJECT_DIR$/lbs" />
             <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/rxjava2" />
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/socket" />

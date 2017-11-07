@@ -60,7 +60,7 @@ public class ViewTypeActivity extends AppCompatActivity {
                 ((OneViewHolder) holder).tv.setText(mDatas.get(position));
             } else if (holder instanceof TwoViewHolder) {
                 ((TwoViewHolder) holder).tv1.setText(mDatas.get(position));
-                ((TwoViewHolder) holder).tv2.setText(mDatas.get(position));
+                 ((TwoViewHolder) holder).tv2.setText(mDatas.get(position));
             }
         }
 

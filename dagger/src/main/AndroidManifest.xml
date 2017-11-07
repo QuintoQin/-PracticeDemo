@@ -12,7 +12,7 @@
         <activity android:name=".MainActivity">
 
         </activity>
-        <activity android:name=".shoe.SecondActivity" />
+        <activity android:name=".demo1.base.shoe.SecondActivity" />
         <activity android:name=".SimpleActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

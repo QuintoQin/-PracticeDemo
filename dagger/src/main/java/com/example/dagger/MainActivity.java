@@ -4,8 +4,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-import com.example.dagger.shoe.Cloth;
-import com.example.dagger.shoe.Clothes;
+import com.example.dagger.demo1.base.shoe.Cloth;
+import com.example.dagger.demo1.base.shoe.Clothes;
 
 import javax.inject.Inject;
 
@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 //    @Inject
 //    Shoe shoe;
     @Inject
-Clothes clothes;
+    Clothes clothes;
     @Inject
     Cloth redCloth;
     //@Named("red")
