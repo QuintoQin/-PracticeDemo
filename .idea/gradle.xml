@@ -23,6 +23,7 @@
             <option value="$PROJECT_DIR$/rxjava2" />
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/socket" />
+            <option value="$PROJECT_DIR$/sqlite" />
             <option value="$PROJECT_DIR$/view" />
             <option value="$PROJECT_DIR$/xml" />
           </set>
