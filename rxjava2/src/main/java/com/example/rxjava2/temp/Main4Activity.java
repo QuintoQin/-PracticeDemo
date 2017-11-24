@@ -1,8 +1,10 @@
-package com.example.rxjava2;
+package com.example.rxjava2.temp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.example.rxjava2.R;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
