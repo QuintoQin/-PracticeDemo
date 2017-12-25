@@ -12,7 +12,10 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-
+        ndk{
+            moduleName "hello"
+            abiFilters "armeabi","armeabi-v7a","x86"
+        }
     }
     buildTypes {
         release {
