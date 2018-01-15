@@ -49,5 +49,55 @@ public class MyView extends LinearLayout {
         invalidate();
     }
 
+    @Override
+    public boolean onInterceptTouchEvent(MotionEvent ev) {
+        boolean intercepted = false;
+        int x = (int) ev.getX();
+        int y = (int) ev.getY();
+        switch (ev.getAction()) {
+            case MotionEvent.ACTION_DOWN: {
+                intercepted = false;
+                break;
+            }
+            case MotionEvent.ACTION_MOVE: {
+//                if (父容器需要当前点击事件) {
+//                    intercepted = true;
+//                } else {
+//                    intercepted = false;
+//                }
+                break;
+            }
+            case MotionEvent.ACTION_UP: {
+                intercepted = false;
+                break;
+            }
+            default:
+                break;
+        }
+        return intercepted;
+    }
 
+    @Override
+    public boolean dispatchTouchEvent(MotionEvent ev) {
+        int x = (int) ev.getX();
+        int y = (int) ev.getY();
+        switch (ev.getAction()) {
+            case MotionEvent.ACTION_DOWN: {
+                getParent().requestDisallowInterceptTouchEvent(true);
+                break;
+            }
+            case MotionEvent.ACTION_MOVE: {
+//                if (父容器需要此类点击事件) {
+//                    getParent().requestDisallowInterceptTouchEvent(false);
+//                }
+                break;
+            }
+            case MotionEvent.ACTION_UP: {
+                break;
+            }
+            default:
+                break;
+        }
+        return super.dispatchTouchEvent(ev);
+}
 }

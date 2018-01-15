@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        myView = (MyView) findViewById(R.id.myView);
-        btn = (Button) findViewById(R.id.btn);
+//        myView = (MyView) findViewById(R.id.myView);
+//        btn = (Button) findViewById(R.id.btn);
 
         //mView.smoothScrollTo();
         btn.setOnClickListener(new View.OnClickListener() {
@@ -55,4 +55,6 @@ public class MainActivity extends AppCompatActivity {
     public boolean dispatchTouchEvent(MotionEvent ev) {
         return super.dispatchTouchEvent(ev);
     }
+
+
 }

@@ -52,11 +52,21 @@ public class CircleView extends View {
         init();
     }
 
+    @Override
+    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
+        super.onMeasure(widthMeasureSpec, heightMeasureSpec);
+    }
+
     private void init() {
         paint = new Paint();
         paint.setColor(mColor);
         paint.setStrokeWidth(5f);
         paint.setStyle(Paint.Style.FILL);
+    }
+
+    @Override
+    public void layout(int l, int t, int r, int b) {
+        super.layout(l, t, r, b);
     }
 
     @Override
