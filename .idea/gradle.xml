@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/aidl_client" />
             <option value="$PROJECT_DIR$/aidl_service" />
+            <option value="$PROJECT_DIR$/anima" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastreceiver" />
             <option value="$PROJECT_DIR$/contentprovider" />

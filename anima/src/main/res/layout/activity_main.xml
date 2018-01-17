@@ -5,11 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.view.MainActivity">
+    android:padding="16dp"
+    tools:context="net.haodl.anima.MainActivity">
 
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@drawable/edit_common_shape"
-        android:layout_margin="20dp" />
+
+
 </LinearLayout>
