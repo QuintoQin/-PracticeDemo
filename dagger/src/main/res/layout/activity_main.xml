@@ -7,9 +7,10 @@
     android:layout_margin="10dp"
     tools:context="com.example.dagger.MainActivity">
 
-    <TextView
-        android:id="@+id/tv"
+    <Button
+        android:id="@+id/btn"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="click me" />
 
 </RelativeLayout>
