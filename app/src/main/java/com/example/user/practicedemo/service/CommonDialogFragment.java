@@ -1,4 +1,4 @@
-package com.example.user.practicedemo;
+package com.example.user.practicedemo.service;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,6 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
+
+import com.example.user.practicedemo.R;
 
 /**
  * Created by ${user} on 2018/1/25.
