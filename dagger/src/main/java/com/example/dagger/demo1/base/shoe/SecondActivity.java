@@ -1,6 +1,6 @@
 package com.example.dagger.demo1.base.shoe;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.dagger.R;

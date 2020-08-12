@@ -1,12 +1,9 @@
 package com.example.view.simple;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.MotionEvent;
-import android.view.View;
-import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.Scroller;
 

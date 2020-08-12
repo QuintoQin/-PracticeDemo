@@ -1,9 +1,8 @@
 package com.example.service;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.LayoutInflater;
 
 public class MainActivity extends AppCompatActivity {
     private ThreadLocal<Boolean> mThreadLocal = new ThreadLocal<>();

@@ -1,8 +1,7 @@
 package com.example.recyclerview.bestuichat;
 
-import android.support.v7.widget.RecyclerView.*;
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.*;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.appcompat.widget.*;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

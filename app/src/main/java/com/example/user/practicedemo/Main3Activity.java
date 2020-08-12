@@ -1,6 +1,6 @@
 package com.example.user.practicedemo;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.user.practicedemo.service.CommonDialogFragment;

@@ -1,6 +1,6 @@
 package com.example.recyclerview.bestuichat;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
@@ -12,10 +12,9 @@ import com.example.recyclerview.R;
 import java.util.ArrayList;
 import java.util.List;
 
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.RecyclerView.*;
-import android.support.v7.widget.*;
-import android.widget.LinearLayout;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.appcompat.widget.*;
 
 /**
  * 编写的一个简易聊天界面
