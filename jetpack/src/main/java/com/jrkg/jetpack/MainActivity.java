@@ -15,15 +15,15 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_main);
-        ActivityMainBinding binding = DataBindingUtil.setContentView(this,R.layout.activity_main);
-        final User user = new User();
-        user.setFirstName("Qin");
-        binding.setUser(user);
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                user.setFirstName("QQQ");
-            }
-        },5000);
+//        ActivityMainBinding binding = DataBindingUtil.setContentView(this,R.layout.activity_main);
+//        final User user = new User();
+//        user.setFirstName("Qin");
+//        binding.setUser(user);
+//        new Handler().postDelayed(new Runnable() {
+//            @Override
+//            public void run() {
+//                user.setFirstName("QQQ");
+//            }
+//        },5000);
     }
 }
