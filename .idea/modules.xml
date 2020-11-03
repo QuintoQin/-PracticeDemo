@@ -2,53 +2,30 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PracticeDemo.iml" filepath="$PROJECT_DIR$/PracticeDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidl_client/PracticeDemo-aidl_client.iml" filepath="$PROJECT_DIR$/.idea/modules/aidl_client/PracticeDemo-aidl_client.iml" group="PracticeDemo/aidl_client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidl_service/PracticeDemo-aidl_service.iml" filepath="$PROJECT_DIR$/.idea/modules/aidl_service/PracticeDemo-aidl_service.iml" group="PracticeDemo/aidl_service" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anima/PracticeDemo-anima.iml" filepath="$PROJECT_DIR$/.idea/modules/anima/PracticeDemo-anima.iml" group="PracticeDemo/anima" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PracticeDemo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PracticeDemo-app.iml" group="PracticeDemo/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter/PracticeDemo-arouter.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter/PracticeDemo-arouter.iml" group="PracticeDemo/arouter" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/broadcastreceiver/PracticeDemo-broadcastreceiver.iml" filepath="$PROJECT_DIR$/.idea/modules/broadcastreceiver/PracticeDemo-broadcastreceiver.iml" group="PracticeDemo/broadcastreceiver" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contentprovider/PracticeDemo-contentprovider.iml" filepath="$PROJECT_DIR$/.idea/modules/contentprovider/PracticeDemo-contentprovider.iml" group="PracticeDemo/contentprovider" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dagger/PracticeDemo-dagger.iml" filepath="$PROJECT_DIR$/.idea/modules/dagger/PracticeDemo-dagger.iml" group="PracticeDemo/dagger" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datasava/PracticeDemo-datasava.iml" filepath="$PROJECT_DIR$/.idea/modules/datasava/PracticeDemo-datasava.iml" group="PracticeDemo/datasava" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/developers/PracticeDemo-developers.iml" filepath="$PROJECT_DIR$/.idea/modules/developers/PracticeDemo-developers.iml" group="PracticeDemo/developers" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greendao/PracticeDemo-greendao.iml" filepath="$PROJECT_DIR$/.idea/modules/greendao/PracticeDemo-greendao.iml" group="PracticeDemo/greendao" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layout/PracticeDemo-layout.iml" filepath="$PROJECT_DIR$/.idea/modules/layout/PracticeDemo-layout.iml" group="PracticeDemo/layout" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lbs/PracticeDemo-lbs.iml" filepath="$PROJECT_DIR$/.idea/modules/lbs/PracticeDemo-lbs.iml" group="PracticeDemo/lbs" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ndk/PracticeDemo-ndk.iml" filepath="$PROJECT_DIR$/.idea/modules/ndk/PracticeDemo-ndk.iml" group="PracticeDemo/ndk" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recyclerview/PracticeDemo-recyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/recyclerview/PracticeDemo-recyclerview.iml" group="PracticeDemo/recyclerview" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retrofit/PracticeDemo-retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/retrofit/PracticeDemo-retrofit.iml" group="PracticeDemo/retrofit" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxjava2/PracticeDemo-rxjava2.iml" filepath="$PROJECT_DIR$/.idea/modules/rxjava2/PracticeDemo-rxjava2.iml" group="PracticeDemo/rxjava2" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/PracticeDemo-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/PracticeDemo-service.iml" group="PracticeDemo/service" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket/PracticeDemo-socket.iml" filepath="$PROJECT_DIR$/.idea/modules/socket/PracticeDemo-socket.iml" group="PracticeDemo/socket" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqlite/PracticeDemo-sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/sqlite/PracticeDemo-sqlite.iml" group="PracticeDemo/sqlite" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view/PracticeDemo-view.iml" filepath="$PROJECT_DIR$/.idea/modules/view/PracticeDemo-view.iml" group="PracticeDemo/view" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml/PracticeDemo-xml.iml" filepath="$PROJECT_DIR$/.idea/modules/xml/PracticeDemo-xml.iml" group="PracticeDemo/xml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Project-PracticeDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/Project-PracticeDemo.iml" group="PracticeDemo" />
-      <module fileurl="file://$PROJECT_DIR$/aidl_client/aidl_client.iml" filepath="$PROJECT_DIR$/aidl_client/aidl_client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aidl_service/aidl_service.iml" filepath="$PROJECT_DIR$/aidl_service/aidl_service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/anima/anima.iml" filepath="$PROJECT_DIR$/anima/anima.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/arouter/arouter.iml" filepath="$PROJECT_DIR$/arouter/arouter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dagger/dagger.iml" filepath="$PROJECT_DIR$/dagger/dagger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/datasava/datasava.iml" filepath="$PROJECT_DIR$/datasava/datasava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/developers/developers.iml" filepath="$PROJECT_DIR$/developers/developers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetpack/jetpack.iml" filepath="$PROJECT_DIR$/.idea/modules/jetpack/jetpack.iml" group="PracticeDemo/jetpack" />
-      <module fileurl="file://$PROJECT_DIR$/layout/layout.iml" filepath="$PROJECT_DIR$/layout/layout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lbs/lbs.iml" filepath="$PROJECT_DIR$/lbs/lbs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ndk/ndk.iml" filepath="$PROJECT_DIR$/ndk/ndk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rxjava2/rxjava2.iml" filepath="$PROJECT_DIR$/rxjava2/rxjava2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/view/view.iml" filepath="$PROJECT_DIR$/view/view.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidl_client/PracticeDemo.aidl_client.iml" filepath="$PROJECT_DIR$/.idea/modules/aidl_client/PracticeDemo.aidl_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidl_service/PracticeDemo.aidl_service.iml" filepath="$PROJECT_DIR$/.idea/modules/aidl_service/PracticeDemo.aidl_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anima/PracticeDemo.anima.iml" filepath="$PROJECT_DIR$/.idea/modules/anima/PracticeDemo.anima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PracticeDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PracticeDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arouter/PracticeDemo.arouter.iml" filepath="$PROJECT_DIR$/.idea/modules/arouter/PracticeDemo.arouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/broadcastreceiver/PracticeDemo.broadcastreceiver.iml" filepath="$PROJECT_DIR$/.idea/modules/broadcastreceiver/PracticeDemo.broadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contentprovider/PracticeDemo.contentprovider.iml" filepath="$PROJECT_DIR$/.idea/modules/contentprovider/PracticeDemo.contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dagger/PracticeDemo.dagger.iml" filepath="$PROJECT_DIR$/.idea/modules/dagger/PracticeDemo.dagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datasava/PracticeDemo.datasava.iml" filepath="$PROJECT_DIR$/.idea/modules/datasava/PracticeDemo.datasava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/developers/PracticeDemo.developers.iml" filepath="$PROJECT_DIR$/.idea/modules/developers/PracticeDemo.developers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greendao/PracticeDemo.greendao.iml" filepath="$PROJECT_DIR$/.idea/modules/greendao/PracticeDemo.greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetpack/PracticeDemo.jetpack.iml" filepath="$PROJECT_DIR$/.idea/modules/jetpack/PracticeDemo.jetpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layout/PracticeDemo.layout.iml" filepath="$PROJECT_DIR$/.idea/modules/layout/PracticeDemo.layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lbs/PracticeDemo.lbs.iml" filepath="$PROJECT_DIR$/.idea/modules/lbs/PracticeDemo.lbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ndk/PracticeDemo.ndk.iml" filepath="$PROJECT_DIR$/.idea/modules/ndk/PracticeDemo.ndk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recyclerview/PracticeDemo.recyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/recyclerview/PracticeDemo.recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retrofit/PracticeDemo.retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/retrofit/PracticeDemo.retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxjava2/PracticeDemo.rxjava2.iml" filepath="$PROJECT_DIR$/.idea/modules/rxjava2/PracticeDemo.rxjava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/PracticeDemo.service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/PracticeDemo.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socket/PracticeDemo.socket.iml" filepath="$PROJECT_DIR$/.idea/modules/socket/PracticeDemo.socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqlite/PracticeDemo.sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/sqlite/PracticeDemo.sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view/PracticeDemo.view.iml" filepath="$PROJECT_DIR$/.idea/modules/view/PracticeDemo.view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml/PracticeDemo.xml.iml" filepath="$PROJECT_DIR$/.idea/modules/xml/PracticeDemo.xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Project.PracticeDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/Project.PracticeDemo.iml" />
     </modules>
   </component>
 </project>

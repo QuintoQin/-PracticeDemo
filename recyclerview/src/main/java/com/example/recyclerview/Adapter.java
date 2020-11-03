@@ -83,9 +83,16 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
         //点击事件view
         View clickView;
 
+
         public ViewHolder(View itemView) {
             super(itemView);
             clickView = itemView;
+            clickView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+
+                }
+            });
             imageView = (ImageView) itemView.findViewById(R.id.iv);
             textView = (TextView) itemView.findViewById(R.id.tv);
         }

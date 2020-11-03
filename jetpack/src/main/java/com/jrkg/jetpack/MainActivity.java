@@ -1,29 +1,18 @@
 package com.jrkg.jetpack;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.databinding.DataBindingComponent;
-import androidx.databinding.DataBindingUtil;
-
 import android.os.Bundle;
-import android.os.Handler;
 
-import com.jrkg.jetpack.databinding.ActivityMainBinding;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.room.Room;
+
+import com.jrkg.jetpack.room.AppDatabase;
 
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main);
-//        ActivityMainBinding binding = DataBindingUtil.setContentView(this,R.layout.activity_main);
-//        final User user = new User();
-//        user.setFirstName("Qin");
-//        binding.setUser(user);
-//        new Handler().postDelayed(new Runnable() {
-//            @Override
-//            public void run() {
-//                user.setFirstName("QQQ");
-//            }
-//        },5000);
+        setContentView(R.layout.activity_main);
+        AppDatabase db = Room.databaseBuilder(getApplicationContext(),AppDatabase.class,"database-name").build();
     }
 }

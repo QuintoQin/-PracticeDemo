@@ -8,6 +8,7 @@ import androidx.appcompat.widget.*;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.recyclerview.R;
@@ -81,6 +82,7 @@ public class ViewTypeActivity extends AppCompatActivity {
 
         class OneViewHolder extends RecyclerView.ViewHolder {
             TextView tv;
+            ImageView iv;
 
             public OneViewHolder(View itemView) {
                 super(itemView);
